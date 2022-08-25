@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaarg&label=Profile%20views&color=0e75b6&style=flat" alt="alaarg" /> </p>
 
-- 🔭 I’m currently working with **UI / Ux Design**
+- 🔭 I’m currently working As **Front End Developer UI / Ux Designer**
 
-- 🌱 I’m currently learning **Vue-JS -- Google Firebase - Tailwind css**
+- 🌱 I’m currently learning **Vue-JS - Google Firebase - Tailwind css**
 
 - 💬 Ask me about **Html, Css-Sass, JS, Photoshop ,Illustrator, XD, wordpress**
 
-- 📫 How to reach me **instargam @___alaarg**
+- 📫 For Any Info Contact Me   **<a href="https://sbc.cards/alaarg/">Here</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
