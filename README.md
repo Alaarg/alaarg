@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Html, Css-Sass, JS, Photoshop ,Illustrator, XD, wordpress**
 
-- 📫 For Any Info Contact Me   **<a href="https://sbc.cards/alaarg/">Here</a>**
+- 📫 For Any Info Contact Me   **<a href="mailto:ahalaarg@gmail.com">Here</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
