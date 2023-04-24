@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working As **Front End Developer UI / Ux Designer**
 
-- 🌱 I’m currently learning **Vue-JS - Google Firebase - Tailwind css**
+- 🌱 I’m currently learning **Vue-JS - Nuxt Js - Tailwind css**
 
 - 💬 Ask me about **Html, Css-Sass, JS, Photoshop ,Illustrator, XD, wordpress**
 
